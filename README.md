@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Weston Southers
-- 👀 I’m interested in software development and data science
-- 🌱 I’m currently learning Python, C#, SQL, and data science
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning C# .NET web api, database architecture, and frontend Next js web development
 - 💞️ I’m looking to collaborate on a wide range of projects.
 - 📫 You can reach my by checking my Portfolio page.
 
